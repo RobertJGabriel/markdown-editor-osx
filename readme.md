@@ -1,6 +1,6 @@
 # markdown-editor
 
-> My excellent app
+> Markdown editor for osx
 
 
 ## Dev
